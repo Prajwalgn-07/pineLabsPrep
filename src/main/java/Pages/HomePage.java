@@ -36,10 +36,8 @@ public class HomePage{
         return mainWindow;
     }
     public void selectFeature(String Feature){
-        System.out.println("1");
         Features.click();
         for(WebElement webElement:FeaturesDropDown){
-            System.out.println("2");
             if(webElement.getText().equals(Feature)){
                 webElement.click();
                 break;
