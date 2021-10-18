@@ -1,4 +1,4 @@
-package OverLoadingAndOverRiding;
+package JavaConceptsAssignment.OverLoadingAndOverRiding;
 
 public class HavellsFan extends Fan{
     public String nameOfTheCompany;

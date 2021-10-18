@@ -1,4 +1,4 @@
-package OverLoadingAndOverRiding;
+package JavaConceptsAssignment.OverLoadingAndOverRiding;
 
 public class Fan {
     public int Speed;

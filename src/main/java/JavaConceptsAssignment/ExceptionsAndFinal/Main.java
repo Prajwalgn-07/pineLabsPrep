@@ -1,4 +1,4 @@
-package ExceptionsAndFinal;
+package JavaConceptsAssignment.ExceptionsAndFinal;
 
 public class Main {
 

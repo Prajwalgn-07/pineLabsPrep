@@ -1,4 +1,4 @@
-package StaticAndNonStaticVariables;
+package JavaConceptsAssignment.StaticAndNonStaticVariables;
 
 public class Employer {
     public static void main(String[] args) {

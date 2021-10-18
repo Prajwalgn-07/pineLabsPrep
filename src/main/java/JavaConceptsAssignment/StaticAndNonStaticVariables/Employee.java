@@ -1,4 +1,4 @@
-package StaticAndNonStaticVariables;
+package JavaConceptsAssignment.StaticAndNonStaticVariables;
 
 
 

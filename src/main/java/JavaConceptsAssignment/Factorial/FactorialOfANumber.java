@@ -1,4 +1,4 @@
-package Factorial;
+package JavaConceptsAssignment.Factorial;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class FactorialOfANumber {
         for(int i=number;i>=1;i--){
             factValue*=i;
         }
-        System.out.print("Factorial of "+number+" is "+factValue);
+        System.out.print("JavaConceptsAssignment.Factorial of "+number+" is "+factValue);
     }
     //We could have used recursion but there will be repetition in calculation, so its not feasible option
 }
